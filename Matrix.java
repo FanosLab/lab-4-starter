@@ -10,6 +10,8 @@
  * @author jianfeng
  */
 public class Matrix {
+	
+	//comment
     
 	private int[][]  matrixData;
 	private int    rowsNum;	
@@ -19,8 +21,8 @@ public class Matrix {
 	{   
 		/*
 		* constructs a row-by-col matrix with
-		* all elements equal to 0; if row ≤ 0, the number of rows of the matrix is set to
-		* 3; likewise, if col ≤ 0 the number of columns of the matrix is set to 3.		
+		* all elements equal to 0; if row <= 0, the number of rows of the matrix is set to
+		* 3; likewise, if col <= 0 the number of columns of the matrix is set to 3.		
 		*/
 	}
 
